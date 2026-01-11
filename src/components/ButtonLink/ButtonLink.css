@@ -1,0 +1,15 @@
+.button-link {
+  outline: 1px solid black;
+  border-radius: 10px;
+  padding: 0.5rem;
+  margin: 5px;
+
+  background-color: white;
+  color: black;
+  transition: all 0.3s ease-in;
+}
+
+.button-link:hover {
+  background-color: black;
+  color: white;
+}
