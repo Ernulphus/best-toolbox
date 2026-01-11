@@ -7,6 +7,8 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/KnowledgeHub" />
+        <Route path="/Downloads" /> 
       </Routes>
     </BrowserRouter>
   );
